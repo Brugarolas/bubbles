@@ -212,6 +212,8 @@ func (m Model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
   customization options.
 * [evertras/bubble-table](https://github.com/Evertras/bubble-table): Interactive,
   customizable, paginated tables.
+* [genekkion/bubblegum](https://github.com/Genekkion/bubblegum): Simple quick fix
+  for full screen applications.
 * [knipferrc/teacup](https://github.com/knipferrc/teacup): Various handy
   bubbles and utilities for building Bubble Tea applications.
 * [mritd/bubbles](https://github.com/mritd/bubbles): Some general-purpose
@@ -224,6 +226,8 @@ func (m Model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 * [treilik/bubblelister](https://github.com/treilik/bubblelister): An alternate
   list that is scrollable without pagination and has the ability to contain
   other bubbles as list items.
+* [ogios/cropviewport](https://github.com/ogios/cropviewport): Crops view from
+  string given position and size. ANSI SGR supported.
 
 If you’ve built a Bubble you think should be listed here, please create a Pull
 Request. Please note that for a project to be included, it must meet the
